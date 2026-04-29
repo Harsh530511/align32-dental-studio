@@ -78,6 +78,12 @@ export const Route = createRootRoute({
       { property: "og:type", content: "website" },
       { property: "og:site_name", content: clinic.name },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Align32 Family Dental Care Center Pune | Braces, Aligners & Dental Care" },
+      { name: "twitter:title", content: "Align32 Family Dental Care Center Pune | Braces, Aligners & Dental Care" },
+      { property: "og:description", content: "Align32 Family Dental Care Center in Pune offers family dental care, orthodontic treatment, clear aligners, braces, crowns, scaling, polishing, tooth extraction, implants, and cosmetic dental treatments." },
+      { name: "twitter:description", content: "Align32 Family Dental Care Center in Pune offers family dental care, orthodontic treatment, clear aligners, braces, crowns, scaling, polishing, tooth extraction, implants, and cosmetic dental treatments." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c3ac52c3-78e0-48b5-a388-c94b854d602b/id-preview-fd3cf934--6bcc5029-dc2b-492f-891c-f34f7e27cb3f.lovable.app-1777460402810.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/c3ac52c3-78e0-48b5-a388-c94b854d602b/id-preview-fd3cf934--6bcc5029-dc2b-492f-891c-f34f7e27cb3f.lovable.app-1777460402810.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
